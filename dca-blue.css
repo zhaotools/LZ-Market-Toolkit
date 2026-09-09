@@ -1,0 +1,11 @@
+.layer-tab.dca.active {
+  background: linear-gradient(135deg, #2f7ec8, #63ace7);
+}
+
+.layer-detail.dca-detail {
+  background: linear-gradient(145deg, #1d5f9d, #438fc9);
+}
+
+.dca-detail .detail-label {
+  color: #c7e7ff;
+}
